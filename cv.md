@@ -17,5 +17,5 @@ __email: a.fokin1979@gmail.com__
 > Mogilev State University of Food Technologies, (Mogilev, Belarus) 2002
 > Technological Faculty, Beer and beverage technology (soft drinks, wine, alcohol, etc.), process engineer
 
-Result oriented. I strive to understand and study HTML, CSS, JS English level: A2
+_Result oriented. I strive to understand and study HTML, CSS, JS English level: A2_
 
